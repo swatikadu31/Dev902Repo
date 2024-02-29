@@ -9,6 +9,7 @@ public class AppTest {
 ArithmaticOperations ar=new ArithmaticOperations();
 System.out.println("sum:"+ar.sum(100,200));
 System.out.println("sub:"+ar.sub(100,200));
+System.out.println("----------------------------");
 	}
 
 }
