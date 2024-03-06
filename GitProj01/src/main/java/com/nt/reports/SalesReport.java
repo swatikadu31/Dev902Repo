@@ -18,6 +18,6 @@ public class SalesReport {
 	}
 public void excelReport()
 {
-	
+	System.out.println("SalesReport.excelReport()");
 }
 }
