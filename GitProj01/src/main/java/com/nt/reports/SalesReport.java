@@ -16,5 +16,8 @@ public class SalesReport {
 	{
 		System.out.println("SalesReport.yearlyReport()");
 	}
+public void excelReport()
+{
 	
+}
 }
